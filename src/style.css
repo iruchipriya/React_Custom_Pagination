@@ -1,0 +1,20 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.current {
+  color: white;
+  background-color: rgb(153, 153, 238);
+  padding: 3px;
+  padding-left: 7px;
+  padding-right: 7px;
+  border: 1px solid rgb(91, 64, 190);
+}
+
+.total {
+  border: 1px solid black;
+  padding: 3px;
+  padding-left: 7px;
+  padding-right: 7px;
+}
